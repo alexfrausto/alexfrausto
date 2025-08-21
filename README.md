@@ -47,10 +47,4 @@ Just like a Pokémon trainer, I'm on a quest to collect (and master) as many lan
 
 ---
 
-## 📈 GitHub Stats
-
-![alexfrausto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexfrausto&show_icons=true&theme=github_dark)
-
----
-
 *Let’s connect, collaborate, and build something legendary together! 🚀*
